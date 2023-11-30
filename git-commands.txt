@@ -1,0 +1,11 @@
+git commands:
+
+Add files from local to remote repository:
+- cd local folder
+- git add . 			    Stages all files in local folder
+- git commit -m "Commit message"    Adds a message to the commit
+- git push origin main 		    Uploads new files to remote repo
+
+Retrieve changes from remote repo to local:
+- cd local folder
+- git pull origin
